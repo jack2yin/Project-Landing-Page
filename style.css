@@ -130,7 +130,6 @@ img {
 
 .group {
     padding: 40px;
-
 }
 
 .subtext-p {
@@ -139,4 +138,27 @@ img {
 
 /*END OF LANDING PAGE 2*/
 
+.landing-page-3 {
+    background-color: #E5E7EB;
+    padding: 50px;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    justify-content: center;
+}
+
+.author {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+}
+/* TESTIMONY SECTION COMPLETED */
 
