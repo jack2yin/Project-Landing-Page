@@ -162,3 +162,44 @@ img {
 }
 /* TESTIMONY SECTION COMPLETED */
 
+.landing-page-4 {
+    display: flex;
+    background-color: #F9FAF8 ;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.blue-background {
+    display: flex;
+    background-color: #3882F6;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.h4 {
+    font-weight: bold;
+    color:#F9FAF8;
+    font-size: 26px;
+}
+
+.subtext-4 {
+    font-weight: normal;
+    padding-right: 50px;
+    font-size: 16px;
+}
+
+.button-LP4 {
+    background-color: #3882F6;
+    padding: 0 50px 0 50px;
+    border: none;
+    border-radius: 9px;
+    font-size: 20px;
+    color: #F9FAF8;
+    border-color: #F9FAF8;
+    border-style: solid;
+    font-weight: bold;
+    border-width: 2px;
+
+    text-align: center;
+}
