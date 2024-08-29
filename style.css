@@ -159,6 +159,7 @@ img {
     font-weight: bold;
     font-size: 30px;
     text-align: right;
+    padding: 10px 10px 0 0;
 }
 /* TESTIMONY SECTION COMPLETED */
 
@@ -200,6 +201,13 @@ img {
     border-style: solid;
     font-weight: bold;
     border-width: 2px;
-
     text-align: center;
+}
+
+footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    padding: 30px;
+    color: #F9FAF8;
 }
